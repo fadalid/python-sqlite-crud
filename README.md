@@ -88,4 +88,4 @@ Once the application is running (`python programa_principal.py`), you will be gr
 ## Author
 **Fernanda Denise Adamo**  
 Data Analyst / Business Intelligence  
-[![LinkedIn](https://shields.io)](https://linkedin/in/fadalid.com)
+[![LinkedIn](https://shields.io)](https://linkedin/fadalid.com)
