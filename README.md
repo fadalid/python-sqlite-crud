@@ -5,7 +5,7 @@ This project is a Command-Line Interface (CLI) application developed in **Python
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [Key Features](#key-features)
 - [Repository Structure](#repository-structure)
 - [Database Schema](#database-schema)
@@ -88,4 +88,5 @@ Once the application is running (`python programa_principal.py`), you will be gr
 ## Author
 **Fernanda Denise Adamo**  
 Data Analyst / Business Intelligence  
-[![LinkedIn](https://shields.io)](https://linkedin/fadalid.com)
+https://www.linkedin.com/in/fadalid/  
+https://public.tableau.com/app/profile/fadalid/vizzes
